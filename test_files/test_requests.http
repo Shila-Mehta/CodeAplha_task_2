@@ -1,4 +1,4 @@
-POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+POST  'https://agentkhosa.app.n8n.cloud/webhook/calculator'
 Content-Type: application/json
 
 {
@@ -10,7 +10,7 @@ Content-Type: application/json
 
 ###
 
-POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+POST 'https://agentkhosa.app.n8n.cloud/webhook/calculator'
 Content-Type: application/json
 
 {
@@ -22,7 +22,7 @@ Content-Type: application/json
 
 ###
 
-POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+POST  'https://agentkhosa.app.n8n.cloud/webhook/calculator'
 Content-Type: application/json
 
 {
@@ -31,3 +31,7 @@ Content-Type: application/json
   "num2": 0,
   "user": "Test User"
 }
+
+
+
+$ curl -X POST https://agentkhosa.app.n8n.cloud/webhook/calculator   -H "Content-Type: application/json"   -d '{"operation":"add","num1":15,"num2":3,"user":"System Wakeup"}'
