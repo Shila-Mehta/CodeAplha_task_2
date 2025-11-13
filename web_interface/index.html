@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Calculator Agent - CodeAlpha</title>
+    <script defer  src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 AI Calculator Agent</h1>
+        <div class="subtitle">Powered by n8n Automation</div>
+        
+        <div class="input-group">
+            <label for="num1">First Number:</label>
+            <input type="number" id="num1" value="15" placeholder="Enter  First Number">
+        </div>
+
+        <div class="input-group">
+            <label for="operation">Operation:</label>
+            <select id="operation">
+                <option value="add">➕ Addition</option>
+                <option value="subtract">➖ Subtraction</option>
+                <option value="multiply">✖️ Multiplication</option>
+                <option value="divide">➗ Division</option>
+            </select>
+        </div>
+
+        <div class="input-group">
+            <label for="num2">Second Number:</label>
+            <input type="number" id="num2" value="3" placeholder="Enter  Second Number">
+        </div>
+
+        <div class="input-group">
+            <label for="user">Your Name:</label>
+            <input type="text" id="user" value="User" placeholder="Enter Your Name">
+        </div>
+
+        <button onclick="calculateWithAI()">Calculate with AI Agent</button>
+        
+        <div class="loading" id="loading">
+            AI Agent is processing...
+        </div>
+
+        <div class="result" id="result">
+            <h3>AI Agent Result</h3>
+            <div id="calculation"></div>
+            <div id="explanation"></div>
+            <div id="agentInfo"></div>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+=== TEST CALCULATIONS ===
+
+TEST 1: Basic Addition
+Numbers: 15 + 3
+Expected: 18
+Operation: add
+
+TEST 2: Multiplication  
+Numbers: 8 × 7
+Expected: 56
+Operation: multiply
+
+TEST 3: Division by Zero
+Numbers: 10 ÷ 0
+Expected: Error message
+Operation: divide
+
+TEST 4: Subtraction
+Numbers: 20 - 9
+Expected: 11
+Operation: subtract
+
+TEST 5: Personalized Test
+Numbers: 25 ÷ 5
+User: CodeAlpha-Student
+Expected: 5 with personalized message

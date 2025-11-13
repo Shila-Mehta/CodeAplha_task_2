@@ -1,0 +1,20 @@
+=== n8n SETUP INSTRUCTIONS ===
+1. Go to: https://n8n.io
+2. Click "Get Started" → "Cloud"
+3. Sign up with email and password
+4. Verify email address
+5. Login to n8n dashboard
+
+=== WORKFLOW CREATION ===
+1. Click "Workflows" in left sidebar
+2. Click "New Workflow"
+3. Name: "AI Calculator Agent"
+4. Save this workflow for future use
+
+=== IMPORTANT NOTES ===
+- Your n8n trial: 14 days FREE
+- Save your login credentials
+- Bookmark n8n dashboard URL
+
+
+

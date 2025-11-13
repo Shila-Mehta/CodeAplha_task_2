@@ -1,0 +1,11 @@
+=== MY n8n WEBHOOK URL ===
+https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+
+INSTRUCTIONS:
+1. After creating workflow in n8n
+2. Add Webhook node
+3. Copy the URL that looks like:
+   https://your-name.n8n.cloud/webhook/calculator
+4. Paste it here:
+
+MY_WEBHOOK_URL: https://agentkhosa.app.n8n.cloud/webhook-test/calculator

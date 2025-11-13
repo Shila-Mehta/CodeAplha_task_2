@@ -1,0 +1,20 @@
+=== GOOGLE SHEETS SETUP ===
+1. Go to: https://sheets.google.com
+2. Click "+" to create new sheet
+3. Name it: "Calculator Agent Logs"
+4. Set up these headers in Row 1:
+   A1: Timestamp
+   B1: User
+   C1: Expression  
+   D1: Result
+   E1: Operation
+   F1: Explanation
+   G1: Calculation_ID
+   H1: Symbol
+
+5. Copy the Sheet ID from URL:
+   URL looks like:https://docs.google.com/spreadsheets/d/1jPV7BfQ5gM3Ivnu6SPhDPdjzrZRCSt9RSSvB4GWI0cY/edit?gid=0#gid=0
+   Sheet ID is: 1jPV7BfQ5gM3Ivnu6SPhDPdjzrZRCSt9RSSvB4GWI0cY
+
+6. Save Sheet ID here: 
+   MY_SHEET_ID: 1jPV7BfQ5gM3Ivnu6SPhDPdjzrZRCSt9RSSvB4GWI0cY

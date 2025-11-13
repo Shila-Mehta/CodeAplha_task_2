@@ -1,0 +1,20 @@
+{
+  "workflow_name": "AI Calculator Agent",
+  "description": "n8n workflow for AI-powered calculator",
+  "nodes": [
+    {
+      "type": "Webhook",
+      "settings": {
+        "method": "POST",
+        "path": "/calculator"
+      }
+    },
+    {
+      "type": "Function",
+      "settings": {
+        "code": "Paste the function code here after testing"
+      }
+    }
+  ],
+  "instructions": "This file will contain your exported n8n workflow JSON"
+}

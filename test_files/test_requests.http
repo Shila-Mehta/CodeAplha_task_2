@@ -1,0 +1,33 @@
+POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+Content-Type: application/json
+
+{
+  "operation": "add",
+  "num1": 15,
+  "num2": 3,
+  "user": "CodeAlpha Student"
+}
+
+###
+
+POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+Content-Type: application/json
+
+{
+  "operation": "multiply",
+  "num1": 8,
+  "num2": 7,
+  "user": "Math Lover"
+}
+
+###
+
+POST https://agentkhosa.app.n8n.cloud/webhook-test/calculator
+Content-Type: application/json
+
+{
+  "operation": "divide",
+  "num1": 10,
+  "num2": 0,
+  "user": "Test User"
+}

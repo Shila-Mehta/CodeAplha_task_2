@@ -1,0 +1,33 @@
+=== TROUBLESHOOTING GUIDE ===
+
+PROBLEM: n8n webhook not working
+SOLUTION:
+1. Check if workflow is "Active"
+2. Verify webhook URL is correct
+3. Test with curl command
+
+PROBLEM: Web interface not connecting
+SOLUTION:
+1. Check N8N_WEBHOOK_URL in script.js
+2. Verify n8n workflow is running
+3. Test in different browser
+
+PROBLEM: Calculations not processing
+SOLUTION:
+1. Check function node code in n8n
+2. Verify operation names: add, subtract, multiply, divide
+3. Test with simple numbers
+
+PROBLEM: Google Sheets not updating
+SOLUTION:
+1. Check Sheet ID is correct
+2. Verify Google Sheets credentials in n8n
+3. Check column mappings
+
+=== TESTING CHECKLIST ===
+✅ n8n workflow active
+✅ Webhook URL correct  
+✅ Function node code working
+✅ Web interface loading
+✅ Calculations processing
+✅ Results displaying

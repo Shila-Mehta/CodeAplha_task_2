@@ -1,0 +1,38 @@
+=== LINKEDIN POST TEMPLATES ===
+
+POST 1: Project Launch
+🚀 Just launched my AI Calculator Agent project for #CodeAlpha internship!
+
+What I built:
+🤖 AI-powered calculator using n8n automation
+🎨 Beautiful web interface 
+📊 Google Sheets integration
+⚡ Real-time calculations with personality
+
+Tech Stack: n8n, HTML/CSS/JavaScript, Google Sheets API
+
+#n8n #Automation #WebDevelopment #JavaScript #AI #CodeAlpha
+
+POST 2: Technical Deep Dive
+🔧 Technical breakdown of my AI Calculator Agent:
+
+n8n Workflow:
+• Webhook trigger for calculations
+• Function node with AI logic
+• Google Sheets data logging
+• Error handling and user personalization
+
+The agent understands context and explains calculations like a human!
+
+#n8nWorkflow #AI #Chatbot #Automation #CodeAlpha
+
+POST 3: Demo Time
+🎥 Live demo of my AI Calculator Agent!
+
+Features:
+• Natural language explanations
+• Personalized user experience  
+• Real-time processing
+• Data analytics logging
+
+Check out the video demo! #Demo #AI #Calculator #n8n
