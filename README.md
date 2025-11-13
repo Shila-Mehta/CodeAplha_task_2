@@ -1,11 +1,15 @@
-🤖 AI Calculator Agent
+## 🤖 AI Calculator Agent
+
 A smart calculator powered by n8n automation that provides AI explanations and automatically logs calculations to Google Sheets.
 
-🚀 Live Demo
+## 🚀 Live Demo
+
 Try it here: [Your Live Link]
+
 Video Demo: [Your Video Link]
 
-✨ Features
+## ✨ Features
+
 🤖 AI-powered calculation explanations
 
 ⚡ Real-time n8n automation
@@ -14,7 +18,7 @@ Video Demo: [Your Video Link]
 
 🎨 Modern responsive interface
 
-🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 Automation: n8n Workflows
 
 Backend: JavaScript
@@ -23,10 +27,12 @@ Storage: Google Sheets API
 
 Frontend: HTML, CSS, JavaScript
 
-🔧 How It Works
-text
+## 🔧 How It Works
+
 User Input → n8n Webhook → AI Calculation → Google Sheets → Response
-n8n Workflow:
+
+## n8n Workflow:
+
 Webhook - Receives calculations
 
 Code Node - Processes with AI logic
@@ -35,7 +41,7 @@ Google Sheets - Logs all data
 
 Response - Returns results
 
-📁 Quick Setup
+## 📁 Quick Setup
 Clone repo and host web files
 
 Import n8n workflow from /n8n_workflow/
@@ -45,6 +51,7 @@ Configure Google Sheets integration
 Update webhook URL in script.js
 
 💻 Usage
+
 json
 {
   "operation": "add",
@@ -52,7 +59,9 @@ json
   "num2": 3,
   "user": "Your Name"
 }
-🎓 CodeAlpha Internship
+
+## 🎓 CodeAlpha Internship
+
 Built during my CodeAlpha internship to demonstrate:
 
 n8n workflow automation
@@ -62,9 +71,12 @@ API integrations
 Real-world project deployment
 
 👨‍💻 Developer
-Your Name
+
+NImra Abdul Jabbar
+
 CodeAlpha Intern
-[LinkedIn] • [GitHub]
+
+ Linkdin -> https://www.linkedin.com/in/n-jabbar-1113aa374/
 
 Built with ❤️ using n8n automation
 
