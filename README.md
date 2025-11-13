@@ -4,7 +4,7 @@ A smart calculator powered by n8n automation that provides AI explanations and a
 
 ## 🚀 Live Demo
 
-Try it here: [Your Live Link]
+Try it here:  https://shila-mehta.github.io/CodeAplha_task_2/
 
 Video Demo: [Your Video Link]
 
